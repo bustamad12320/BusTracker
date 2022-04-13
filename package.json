@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^0.26.1"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  },
+  "name": "bustracker",
+  "description": "Real Time Bus Tracker",
+  "version": "1.0.0",
+  "main": "mapanimation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
