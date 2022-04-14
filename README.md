@@ -2,7 +2,7 @@
 
 <h2>Description</h2> 
 
-This app uses the mapbox API combined with the SODA API (Austin Public Transit API) in order to periodically pull public bus route data and display it on a 
+This app uses the mapbox API combined with the SODA API (Austin Public Transit API) in order to periodically pull public bus routes data and displays it on a 
 map of the city of Austin. This application updates the location of all bus routes in the Austin area every 15 seconds in order to reliably track buses near the city.
 
 <h2>Instructions on how to run</h2>
