@@ -2,9 +2,8 @@
 
 <h2>Description</h2> 
 
-This app uses the mapbox api combined with real time bus data provided by the CTA(Chicago Transit Agency)
-As a student at Purdue University I found myself travelling to Chicago quite a bit and noticed how finding 
-a real time bus tracking application that fit my specific needs was quite hard to find so I decided to develop one.
+This app uses the mapbox API combined with the SODA API (Austin Public Transit API) in order to periodically pull public bus route data and display it on a 
+map of the city of Austin. This application updates the location of all bus routes in the Austin area every 15 seconds in order to reliably track buses near the city.
 
 <h2>Instructions on how to run</h2>
 
