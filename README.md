@@ -1,4 +1,4 @@
-#Real Time Bus Tracker
+#<h1>Real Time Bus Tracker</h1>
 
 ##Description 
 
