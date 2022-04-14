@@ -6,3 +6,22 @@ This app uses the mapbox api combined with real time bus data provided by the CT
 As a student at Purdue University I found myself travelling to Chicago quite a bit and noticed how finding 
 a real time bus tracking application that fit my specific needs was quite hard to find so I decided to develop one.
 
+<h2>Instructions on how to run</h2>
+
+This app was built so that it works seamlessly once the site is visited. To run this code simply visit : https://bustamad12320.github.io/BusTracker/.
+Alternatively if you want to run this code on your machine you simply need to git clone this repo to your local workspace and open up the index.html file.
+
+<h2>Future Improvements</h2>
+
+I have really enjoyed working on this project and have a laundry list of all the things I'd like to improve. Below are some of the items in my to do list:
+
+1. Implement a cors proxy server using express that works on every public transit api website for all major cities in the US. I currently got the express cors proxy server to work for the City of Austin but have run into issues with other cities such as Chicago.
+
+2. Incorporate the user's current location to provide bus routes for areas near the user only
+
+3. Smooth out the UI and make it so that the user can click on any given bus route to get more information
+
+<h2>License</h2>
+MIT License
+
+<h2> Author : David Bustamante</h2>
