@@ -1,6 +1,6 @@
-Real Time Bus Tracker
+#Real Time Bus Tracker
 
-Description 
+##Description 
 
 This app uses the mapbox api combined with real time bus data provided by the CTA(Chicago Transit Agency)
 As a student at Purdue University I found myself travelling to Chicago quite a bit and noticed how finding 
